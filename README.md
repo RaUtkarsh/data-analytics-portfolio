@@ -241,7 +241,7 @@ www.linkedin.com/in/utkarshraj07
 
 Email
 
-your-email@gmail.com
+rajatulutkarsh@gmail.com
 
 Portfolio
 
