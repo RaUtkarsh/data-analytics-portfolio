@@ -184,14 +184,35 @@ An interactive dashboard for financial performance analysis including revenue, p
 
 ---
 
-# 🏆 Certifications
+## 🏆 Certifications
 
-- Google Data Analytics Professional Certificate
-- Data Science & Machine Learning Specialist – Coding Ninjas
-- Snowflake (Currently Preparing Advanced Certification)
-- Microsoft Power BI PL-300 (In Progress)
+### Google Data Analytics Professional Certificate
+**Issued by:** Google (Coursera)
+
+Key topics covered:
+
+- Data Cleaning
+- SQL
+- Tableau
+- Data Visualization
+- R Programming
+- Spreadsheet Analysis
+- Data-driven Decision Making
 
 ---
+
+### Data Science & Machine Learning
+Coding Ninjas
+
+---
+
+### SQL (Basic)
+HackerRank
+
+---
+
+### Data Analysis with Python
+Coursera
 
 # 📊 GitHub Highlights
 
