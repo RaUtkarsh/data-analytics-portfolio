@@ -93,7 +93,7 @@ I am currently pursuing my **Master of Science in Data Science** while actively 
 
 **Status**
 
-✅ Accepted & Published
+✅ Accepted & Evaluated Positively
 
 ### Research Highlights
 
